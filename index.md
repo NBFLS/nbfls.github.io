@@ -9,3 +9,7 @@ Everyone who is or was a student in NBFLS and is interested in OI/Software/GitHu
  - Try to prove that you are/were a student in NBFLS.
    - Find an team member in school.
    - Send email to the owner of this team.
+
+### Is it an official team?
+
+No. This team is organized by students. It **can not** represent NBFLS in an official way.
